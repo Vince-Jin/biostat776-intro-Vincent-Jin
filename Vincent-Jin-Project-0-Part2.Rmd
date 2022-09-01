@@ -1,16 +1,14 @@
 ---
-title: "Project-0-Part-2"
-author: "Vincent Jin"
-date: "2022-09-01"
+title: "biostat776-intro-Vincent-Jin"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+This website contains a short introduction of Vincent Jin.
 
-# Self Introduction - Vincent Jin
-
+# Self Introduction
 ## Background
 
 ```{r Background, echo = FALSE}
@@ -88,6 +86,6 @@ embed_url("https://www.youtube.com/watch?v=PIHKMcvLBhU")
 }
 ```
 [Sorry the link was rickrolling - but I really like that song as well! Hope you enjoyed it! :)]{.spoiler}
-
+ 
 
 
