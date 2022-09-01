@@ -1,2 +1,3 @@
-# biostat776-intro-Vincent-Jin
-Statistical Computing Project 0 - Part 2
+# Introducing Myself
+This website contains a brief introduction of Vincent Jin.
+
