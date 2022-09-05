@@ -24,7 +24,7 @@ cat("Thank you so much for this course, Dr. Hicks! I have already learned a lot 
 ```
 
 ## Five Fun Facts About Me
-### 1. I love cook! Here are some pictures:
+### 1. I love cooking! Here are some pictures:
 <br>
 Braised Pork
 <br>
